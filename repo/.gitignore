@@ -1,0 +1,3 @@
+{{$dist->name}}*
+.build
+*.swp
