@@ -1,3 +1,3 @@
-{{$dist->name}}*
+/{{$dist->name}}*
 .build
 *.swp
